@@ -5,8 +5,6 @@ This project aims to classify news articles as true or fake using Natural Langua
 
 ## Included Files
 - **Progetto 9.ipynb:** Jupyter Notebook containing the complete workflow for text preprocessing, model training, and evaluation.
-- **True.csv:** Dataset containing real news articles.
-- **Fake.csv:** Dataset containing fake news articles.
 
 ## Objectives
 - Preprocess and clean textual data for analysis.  
