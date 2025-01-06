@@ -1,18 +1,26 @@
-# Natural Language Processing (NLP) Project
+# Fake News Detection Project
 
 ## Description
-This project explores Natural Language Processing (NLP) techniques using Python, focusing on text analysis, preprocessing, and sentiment classification.
+This project aims to classify news articles as true or fake using Natural Language Processing (NLP) techniques. By analyzing textual data, the project uncovers patterns and trains a model to distinguish between real and fake news.
 
 ## Included Files
-- **Progetto 9.ipynb:** Jupyter Notebook with NLP code and analysis.
+- **Progetto 9.ipynb:** Jupyter Notebook containing the complete workflow for text preprocessing, model training, and evaluation.
+- **True.csv:** Dataset containing real news articles.
+- **Fake.csv:** Dataset containing fake news articles.
 
 ## Objectives
-- Preprocess textual data for analysis (tokenization, stopword removal, etc.).  
-- Perform sentiment analysis and text classification.  
-- Apply NLP models to extract insights from unstructured data.
+- Preprocess and clean textual data for analysis.  
+- Vectorize text using TF-IDF for feature extraction.  
+- Train a logistic regression model for binary classification.  
+- Evaluate model performance using metrics like accuracy and confusion matrix.
+
+## Features
+- Data preprocessing: Tokenization, punctuation removal, and text cleaning.  
+- Model training with logistic regression.  
+- Visualizations: Word clouds for real and fake news.
 
 ## Tools
-- Python (NLTK, SpaCy, Scikit-learn, Pandas, Matplotlib)  
+- Python (Pandas, Scikit-learn, WordCloud, Matplotlib)  
 - Jupyter Notebook
 
 ## Contact
