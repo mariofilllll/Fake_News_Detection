@@ -22,4 +22,4 @@ This project aims to classify news articles as true or fake using Natural Langua
 - Jupyter Notebook
 
 ## Contact
-For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
+For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mariofilizzola/) or via [email](mailto:filizzolamario@gmail.com).
